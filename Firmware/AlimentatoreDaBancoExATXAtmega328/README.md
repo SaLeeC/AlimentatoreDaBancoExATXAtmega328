@@ -17,7 +17,7 @@ Until you upgrade the libraries this sequence will no longer be needed.
 Il firmware è stato con sviluppato con PlatformIO.
 Per l'interfacciamento del chip INA219 è stata utilizzata una versione modificata della libreria sviluppata da Adafruit.
 è in corso la richiesta di aggiornamento della libreria al suo sviluppatore.
-Al momneto per eseguire la compilazione senza errori si deve effettuare le seguenti operazioni:
+Al momento per eseguire la compilazione senza errori si deve effettuare le seguenti operazioni:
 1) Copiare la cartella di progetto sul vostro computer
 2) aprire la cartella "lib\Adafruit INA219-CopiaDiSicurezza" all'interno della cartella di progetto e copiarne il contenuto
 3) aprire la cartella ".pio\libdeps\uno\Adafruit INA219" e incollarvi dentro i file copiati autorizzando la sostituzione di tutti i file
