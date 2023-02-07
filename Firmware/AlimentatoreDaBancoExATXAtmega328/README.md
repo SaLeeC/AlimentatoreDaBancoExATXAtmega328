@@ -9,7 +9,7 @@ A modified version of the library developed by Adafruit was used to interface th
 library update request to its developer is in progress.
 At the moment, to compile without errors, you must do the following:
 1) Copy the project folder to your computer
-2) open the "lib\Adafruit INA219-CopiaDiSecurità" folder inside the project folder and copy its contents
+2) open the "lib\Adafruit INA219-CopiaDiSecurezza" folder inside the project folder and copy its contents
 3) open the ".pio\libdeps\uno\Adafruit INA219" folder and paste the copied files into it, authorizing the replacement of all files
 This sequence does NOT affect other projects in your folders.
 Until you upgrade the libraries this sequence will no longer be needed. 
