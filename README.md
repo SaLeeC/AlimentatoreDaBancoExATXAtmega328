@@ -27,3 +27,7 @@ Al momneto per eseguire la compilazione senza errori si deve effettuare le segue
 3) aprire la cartella ".pio\libdeps\uno\Adafruit INA219" e incollarvi dentro i file copiati autorizzando la sostituzione di tutti i file
 Questa sequenza NON influenza gli altri progetti presenti nelle vostre cartelle.
 Fino a quando non eseguirete l'aggiornamento delle librerie questa sequenza non sarà più necessaria.
+
+
+# Box
+https://grabcad.com/library/box-for-atx-power-supply-ex-pc-1
