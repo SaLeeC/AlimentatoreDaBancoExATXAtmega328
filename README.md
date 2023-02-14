@@ -29,5 +29,5 @@ Questa sequenza NON influenza gli altri progetti presenti nelle vostre cartelle.
 Fino a quando non eseguirete l'aggiornamento delle librerie questa sequenza non sarà più necessaria.
 
 
-#Box
+# Box
 https://grabcad.com/library/box-for-atx-power-supply-ex-pc-1
